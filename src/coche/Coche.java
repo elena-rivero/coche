@@ -1,7 +1,7 @@
 
 package coche;
 
-
+/* Cambio de la rama 2 */
 public class Coche {
 
 	private String nombre;
