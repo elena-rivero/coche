@@ -2,6 +2,7 @@
 package coche;
 
 /* Estoy en la rama 1 */
+/* Cambio de la rama 2 */
 public class Coche {
 
 	private String nombre;
